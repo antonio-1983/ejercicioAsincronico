@@ -1,0 +1,14 @@
+C:\Users\Antonio\source\repos\HilosSincronico\bin\Debug\net6.0\EjercicioAsincronia.exe
+C:\Users\Antonio\source\repos\HilosSincronico\bin\Debug\net6.0\EjercicioAsincronia.deps.json
+C:\Users\Antonio\source\repos\HilosSincronico\bin\Debug\net6.0\EjercicioAsincronia.runtimeconfig.json
+C:\Users\Antonio\source\repos\HilosSincronico\bin\Debug\net6.0\EjercicioAsincronia.dll
+C:\Users\Antonio\source\repos\HilosSincronico\bin\Debug\net6.0\EjercicioAsincronia.pdb
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\EjercicioAsincronia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\EjercicioAsincronia.AssemblyInfoInputs.cache
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\EjercicioAsincronia.AssemblyInfo.cs
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\EjercicioAsincronia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\EjercicioAsincronia.dll
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\refint\EjercicioAsincronia.dll
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\EjercicioAsincronia.pdb
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\EjercicioAsincronia.genruntimeconfig.cache
+C:\Users\Antonio\source\repos\HilosSincronico\obj\Debug\net6.0\ref\EjercicioAsincronia.dll

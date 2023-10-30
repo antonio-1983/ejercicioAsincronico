@@ -19,13 +19,26 @@ void BuscarMayor(int comienzo, int final, object bloqueador,Resultado resultado,
     {
         if (arreglo.Numeros[i] > mayor)
         {
-            mayor = arreglo.Numeros[i];
+            lock (bloqueador) 
+            {
+                if (arreglo.Numeros[i] > mayor) 
+                {
+                    lock (bloqueador)
+                    {
+                        mayor = arreglo.Numeros[i];
+                        resultado.Mayor = mayor;//agregado
+                    }
+                }
+            }
+
         }
     }
+    /*  codigo anterior
     lock (bloqueador)
     {
         resultado.Mayor = mayor ;
     }
+    */
 }
 
 async Task BuscarMayorAsync(int comienzo, int final, object bloqueador, Resultado resultado, ArregloAsincronico arreglo)
